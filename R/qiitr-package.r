@@ -1,8 +1,8 @@
-#' R Binding for Qiita API v2
-#'
-#'
-#' @name qiitr-package
-#' @aliases qiitr
-#' @docType package
-#' @seealso \url{http://qiita.com/api/v2/docs}
+#' @keywords internal
+"_PACKAGE"
+
+# The following block is used by usethis to automatically manage
+# roxygen namespace tags. Modify with care!
+## usethis namespace: start
+## usethis namespace: end
 NULL
